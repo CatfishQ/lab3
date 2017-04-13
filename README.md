@@ -28,4 +28,7 @@ v1/v2 are different.
 insertion_sort(): 8436.62 seconds
 v1/v2 are the same.
 
-
+第一個的時間複雜度是 n * log(n)
+而第二個是 n^2
+兩者相比之下 第一個的時間複雜度小了很多
+所以用sort()所花費的時間會小很多
