@@ -1,1 +1,7 @@
-# lab3
+question A :
+	g++ hw.cpp
+
+
+question B :
+
+
